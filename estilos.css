@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(8, 75, 134);
+}
+
+.contenedor{
+    margin: 70px auto;
+    width: 70%;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+
+.contenedor p{
+    padding: 20px;
+}
